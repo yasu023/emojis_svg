@@ -1,0 +1,59 @@
+*{
+  background-color: bisque;
+}
+h1{
+  text-align: center;
+  color: aquamarine;
+  background-color: black;
+}
+h2{
+  text-align: center;
+}
+.container1{
+  display: flex;
+  justify-content: center;
+}
+#box{
+  width: 350px;
+  height: 70px;
+  padding: 10px;
+  border: 1px solid black;
+}
+#task{
+  width: 300px;
+  height: 30px;
+}
+#add{
+  height: 30px;
+  background-color: aliceblue;
+}
+.container{
+  display: flex;
+  justify-content: center;
+  justify-content: space-evenly;
+}
+.cards{
+  background-color: aliceblue;
+  width: 250px;
+  height: 300px;
+  border: 1px solid black;
+}
+.task-type{
+  text-align: center;
+  background-color: aliceblue;
+}
+.task2-head{
+  display: flex;
+  justify-content: center;
+}
+.task-item {
+  background: #f0f0f0;
+  padding: 10px;
+  margin: 5px;
+  border: 1px solid #ccc;
+  cursor: grab;
+}
+p{
+  background-color: cornsilk;
+  font-weight: bold;
+}
